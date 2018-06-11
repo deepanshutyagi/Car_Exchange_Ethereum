@@ -1,14 +1,11 @@
 ###Compile and deploy contract;
 '''
-    Run Truffle compile
-
-    Run Truffle migrate after editing ur ganache infot in truffle.js
-
-
-     Interact with the contract
-
-    There is a python backend restapi implementation in app folder file is interact.python
+Run Truffle compile
+Run Truffle migrate after editing ur ganache infot in truffle.js
+Interact with the contract
+There is a python backend restapi implementation in app folder file is interact.python
 '''
+
 ###Install python3
 ''' 
     brew install python3
