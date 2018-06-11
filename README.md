@@ -30,7 +30,7 @@ change the contract address in interact.py script
 contract_address= Web3.toChecksumAddress("your address")
 cd ./app
 Run python3 interact.py
-Interact with smart contract using the post endpoints in the provided postman folder
+Interact with smart contract using the post endpoints in the postman folder
 ```
 
 
