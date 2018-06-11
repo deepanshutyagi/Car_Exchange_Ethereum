@@ -27,6 +27,8 @@ pip install -r requirements.txt
 Run app and interact with the smart contract
 ```
 change the contract address in interact.py script
+Your aganche url
+w3 = Web3(HTTPProvider("your url"))
 contract_address= Web3.toChecksumAddress("your address")
 cd ./app
 Run python3 interact.py
